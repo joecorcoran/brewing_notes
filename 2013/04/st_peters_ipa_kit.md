@@ -1,4 +1,4 @@
-# St. Peter's IPA, 15 April 2013
+# St. Peter's IPA kit with extra East Kent Goldings hops, April 2013
 
 ## Ingredients
 
@@ -8,7 +8,7 @@ All this stuff came with the St. Peter’s kit.
 * 2 tins of St Peter's malt extract
 * Goldings hop powder
 
-## Primary fermentation
+## Primary fermentation, 15 April
 
 1. Sterilize:
   * Tub
@@ -30,12 +30,32 @@ All this stuff came with the St. Peter’s kit.
 9. Put on lid and airlock
 10. Stick on thermometer
 
+## Transfering to barrel, 22 April
+
+At the advice of more experienced brewers, we’re adding some dry hops at this point.
+
+1. Sterilize:
+  * Barrel and cap
+  * Big spoon
+  * Hydrometer and measuring cylinder
+  * Funnel
+  * Pyrex bowl
+  * Siphon
+2. Mix 2/3 cup of white sugar with 2 cups boiling water in pyrex jug
+3. Remove lid from fermentation tub and take hydrometer reading
+4. Pour sugar solution into barrel through funnel and let cool
+5. Siphon beer from tub into barrel
+6. Add 50g dry hops to barrel
+7. Close barrel with vaseline around cap
+
 ## Thermometer readings
 
 1. 15 April: 20 C
+2. 20 April: 20 C
+3. 22 April: 19 C
 
 ## Hydrometer readings
 
 1. 15 April: 1.040
-
+2. 22 April: 1.010
 
