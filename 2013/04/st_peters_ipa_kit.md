@@ -1,4 +1,4 @@
-# St. Peter's IPA kit with extra East Kent Goldings hops, April 2013
+# St. Peter's IPA kit with extra East Kent Goldings hops
 
 ## Ingredients
 
@@ -30,7 +30,7 @@ All this stuff came with the St. Peter’s kit.
 9. Put on lid and airlock
 10. Stick on thermometer
 
-## Transfering to barrel, 22 April
+## Secondary fermentation, 22 April
 
 At the advice of more experienced brewers, we’re adding some dry hops at this point.
 
