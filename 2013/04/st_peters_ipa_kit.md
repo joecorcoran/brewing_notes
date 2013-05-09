@@ -58,4 +58,13 @@ At the advice of more experienced brewers, we’re adding some dry hops at this 
 
 1. 15 April: 1.040
 2. 22 April: 1.010
+3. 08 May:   1.006
 
+## Drinking day notes
+
+* Approx. 4.5% ABV
+* Very frothy, possibly a bit over-primed
+* Not as hoppy as I thought from 50g dry hops
+* Without the dry hops, it would have tasted very bland
+* We've named it "Unit 109 Pale Ale"
+* Achievement unlocked: first brew!
